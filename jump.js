@@ -1,3 +1,4 @@
+'use strict';
 // Input: 3
 // Output:
 // 3 - Another sheep jump over the fence
