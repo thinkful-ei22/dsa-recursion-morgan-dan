@@ -1,3 +1,5 @@
+'use strict';
+
 // input: apple, '';
 // output: ['a', 'p', 'p', 'l', 'e'];
 
